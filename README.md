@@ -6,7 +6,7 @@ This is a responsive profile page that displays user details, statistics, and Gi
 - Displays profile picture, name, and bio.
 - Shows statistics like posts, followers, and following.
 - Provides Follow and Message button actions.
-- Dynamically fetches and lists GitHub repositories from the user's GitHub profile.
+- Dynamically fetches and lists GitHub repositories from the user's GitHub profile. 
 
 
 ## Setup
