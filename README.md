@@ -11,7 +11,7 @@ This is a responsive profile page that displays user details, statistics, and Gi
  
 ## Setup
 1. Clone the repository:
-   ```sh
+   ```sh 
    git clone https://github.com/krishrathi1/profile-page.git
    ```
 2. Navigate to the project folder:
