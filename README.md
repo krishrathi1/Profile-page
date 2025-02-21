@@ -8,7 +8,7 @@ This is a responsive profile page that displays user details, statistics, and Gi
 - Provides Follow and Message button actions.
 - Dynamically fetches and lists GitHub repositories from the user's GitHub profile. 
 
-
+ 
 ## Setup
 1. Clone the repository:
    ```sh
